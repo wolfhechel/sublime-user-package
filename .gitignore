@@ -1,0 +1,10 @@
+# Standard files nobody really likes anyway
+.DS_Store
+
+# Package Control cache files
+Package Control.last-run
+Package Control.ca-list
+Package Control.ca-bundle
+Package Control.system-ca-bundle
+Package Control.cache
+Package Control.ca-certs
