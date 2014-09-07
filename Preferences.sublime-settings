@@ -6,5 +6,11 @@
 	],
 	"hot_exit": false,
     "remember_open_files": false,
-	"open_files_in_new_window": false
+	"open_files_in_new_window": false,
+
+    // The number of spaces a tab is considered equal to
+    "tab_size": 4,
+
+    // Set to true to insert spaces when tab is pressed
+    "translate_tabs_to_spaces": true,
 }

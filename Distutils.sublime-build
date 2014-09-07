@@ -1,0 +1,16 @@
+{
+    "shell_cmd": "python setup.py build",
+    "working_dir": "${project_path}",
+
+    "variants": [
+        {
+            "name": "Install",
+            "shell_cmd": "python setup.py install"
+        },
+
+        {
+            "name": "Clean",
+            "shell_cmd": "python setup.py clean"
+        }
+    ]
+}
