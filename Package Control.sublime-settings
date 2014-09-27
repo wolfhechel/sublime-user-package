@@ -6,7 +6,11 @@
 		"ApplySyntax",
 		"Git",
 		"GitGutter",
+		"Jinja2",
 		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-pep8",
 		"Theme - Spacegray",
 		"Vagrant"
 	]
