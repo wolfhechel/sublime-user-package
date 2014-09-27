@@ -4,8 +4,10 @@
 	"font_face": "Source Code Pro",
 	"font_size": 13,
 	"hot_exit": false,
-	"ignored_packages":
-	[
+	"ignored_packages": [
+	],
+	"file_exclude_patterns": [
+		".git",
 	],
 	"open_files_in_new_window": false,
 	"remember_open_files": false,
