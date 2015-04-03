@@ -1,4 +1,7 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -6,7 +9,10 @@
 		"ApplySyntax",
 		"Git",
 		"GitGutter",
+		"HexViewer",
 		"Jinja2",
+		"LESS",
+		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",

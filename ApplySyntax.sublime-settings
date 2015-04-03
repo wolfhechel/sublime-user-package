@@ -10,5 +10,13 @@
 
     // Put your custom syntax rules here:
     "syntaxes": [
+        {
+            "name": "Makefile/Makefile",
+            "rules": [
+                {
+                    "file_name": ".*\\.mk"
+                }
+            ]
+        }
     ]
 }
