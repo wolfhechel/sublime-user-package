@@ -5,20 +5,29 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Alignment",
 		"Anaconda",
 		"ApplySyntax",
+		"AutoFileName",
+		"BracketHighlighter",
 		"Git",
 		"GitGutter",
 		"HexViewer",
+		"HTMLBeautify",
 		"Jinja2",
 		"LESS",
+		"Markdown Preview",
+		"MarkdownEditing",
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-pep8",
+		"SublimeREPL",
+		"Terminal",
 		"Text Pastry",
 		"Theme - Spacegray",
+		"TrailingSpaces",
 		"Vagrant"
 	]
 }
