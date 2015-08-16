@@ -10,6 +10,7 @@
 		"ApplySyntax",
 		"AutoFileName",
 		"BracketHighlighter",
+		"CSS3",
 		"Git",
 		"GitGutter",
 		"HexViewer",
@@ -22,12 +23,8 @@
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
-		"SublimeLinter-pep8",
-		"SublimeREPL",
-		"Terminal",
 		"Text Pastry",
 		"Theme - Spacegray",
-		"TrailingSpaces",
-		"Vagrant"
+		"TrailingSpaces"
 	]
 }
